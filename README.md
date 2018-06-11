@@ -1,2 +1,2 @@
 # RoyaWebsite
-Sliced design into HTML with fully responsive
+Sliced RTL Language Pages into HTML with fully responsive
