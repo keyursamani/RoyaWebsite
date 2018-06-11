@@ -1,0 +1,269 @@
+@media only screen and (max-width: 1700px){
+	.photoablums .item .bottominfo ul li {width: 120px;}
+	.photoablums .item .title {width: 370px; font-size: 20px; line-height: 34px;}
+}
+@media only screen and (max-width: 1599px){
+	#gameitemslider::before, #gameitemslider::after {width: 190px;}
+}
+@media only screen and (max-width: 1439px){
+	/*.custnav .menus > li {padding-left: 21px; margin-left: 21px;}*/
+	#gameitemslider::before, #gameitemslider::after {width: 170px;}
+	.photoablums .item .bottominfo ul li {width: 100px;}
+	.photoablums .item .title {width: 295px; font-size: 16px; line-height: 28px;}
+}
+@media only screen and (max-width: 1300px){
+	.ball-img {display: none;}
+	#gameitemslider::before, #gameitemslider::after {width: 158px;}
+}
+@media only screen and (max-width: 1250px){
+	#breadcrumbs .container, .sliderpart .container, .container, #todaymatches .container {width: 970px;}
+	/*.custnav .menus > li {padding-left: 10px; margin-left: 10px;}*/
+	.newalldetails {width: 570px;}
+	.socialmedia a {margin: 3px;}
+	.socialmedia a.print {float: right;}
+	#polls .container, footer .container {padding: 0 30px;}
+	footer .fmenus li {margin-left: 33px; padding-left: 33px;}
+	footer .fcol1 {width: 326px; padding-left: 35px;}
+
+	.teaminfopage .topcover .rightlogo, .teaminfopage .topcover .leftlogo {width: 245px;}
+	.teaminfopage .topcover .player {width: 478px;}
+	.teaminfopage .teamdetails {width: 350px; border-left: none;}
+	.teaminfopage .infotexts {width: 620px; border-right: 1px solid #e9ecef; padding-bottom: 20px;}
+
+	.teamspage .custtab h3 {width: 100%; padding:25px 14px 0px;}
+	.teamspage .custtab .nav-tabs {margin: 10px 0 24px;}
+	.teamspage .custtab .nav-tabs > li {padding: 0 14px; margin-top: 10px;}
+
+	.teampage2 .contentbox {padding: 23px 30px 0 15px;}
+	.teampage2 .links li a {padding: 0 14px 46px;}
+	#matches .countryinfo {width: 280px;}
+	#matches .matcherow .place {width: 180px; padding-right: 15px;}
+	#matches .matcherow .place .imgbox {margin-right: 0;}
+	#matches .matcherow .place p {width: 100%; float: left; margin-top: 5px;}
+	#groupspart .grouptable ul .scol {width: 84px;}
+	#players .fieldpart {height: 382px;}
+	#players .fieldpart .field {background-size: 97% auto; margin-top: 96px;}
+	#players .fieldpart .field .player1 {right: 483px; top: 53px;}
+	#players .fieldpart .field .player2 {right: 479px;}
+	#players .fieldpart .field .player3 {right: 553px; top: 4px;}
+	#players .fieldpart .field .player4 {right: 584px; top: 34px;}
+	#players .fieldpart .field .player5 {right: 604px; top: 73px;}
+	#players .fieldpart .field .player6 {right: 575px; top: 98px;}
+	#players .fieldpart .field .player7 {right: 637px; top: 3px;}
+	#players .fieldpart .field .player8 {right: 674px; top: 29px;}
+	#players .fieldpart .field .player9 {right: 691px; top: 67px;}
+	#players .fieldpart .field .player10 {right: 662px; top: 98px;}
+	#players .fieldpart .field .player11 {right: 751px;}
+	#players .playerslists ul .pcol1 {width: 190px;}
+	#players .playerslists ul .pscol {width: 89px;}
+	#players .playerslists ul .pcol2 {width: 104px;}
+	#players .playerslists ul .pcol3 {width: 171px; padding-right: 20px;}
+
+}
+@media only screen and (max-width: 1199px){
+	header .hads {margin-right: 30px;}
+	header .hads a img {width: 638px;}
+	header .logo {margin-top: -2px;}
+	header .lheader {margin-top: 19px;}
+	.custnav .menus > li {margin-left: 38px; padding-left: 38px;}
+	#gameitemslider::before, #gameitemslider::after {display: none;}
+	.mainslider .container, .mainslider .owl-nav, header .container, .custnav .container {width: 970px;}
+	.mainslider .slidertexts {top: 70px;}
+	.othernews {overflow: hidden;}
+	.othernews .newbox .details {width: 171px; margin-right: 15px;}
+	.photoablums .item .teams {top: 15px; right: 15px;}
+	.photoablums .item .totalimg {top: 15px; left: 15px;}
+	.photoablums .item .bottominfo {padding: 0 15px 15px;}
+	.photoablums .item .bottominfo ul li {width: 80px;}
+	.photoablums .item .title {font-size: 14px; line-height: 25px; width: 248px;}
+}
+@media only screen and (max-width: 991px){
+	#breadcrumbs .container, .sliderpart .container, .container, #todaymatches .container, .mainslider .container, .mainslider .owl-nav, header .container, .custnav .container {width: 750px;}
+	.custnav .menus > li {margin-left: 19px; padding-left: 19px;}
+	.newalldetails {width: 100%; border-left: none; border-bottom: 1px solid #dee2e6;}
+	.aslidepart {width: 100%;}
+	.aslidepart .bestsoccer .inner {background-size: cover;}
+	#polls .pollinner p {width: 100%; text-align: center; margin-bottom: 10px;}
+	#polls .options {width: 100%; text-align: center;}
+	footer .fmenus li {margin-left: 14px; padding-left: 15px;}
+	footer .fcol {width: 50% !important;}
+	footer .fcol3 {margin-top: 50px;}
+	footer .fcol3 .custfield {width: 270px;}
+
+	.teaminfopage .topcover .rightlogo, .teaminfopage .topcover .leftlogo {width: 241px;}
+	.teaminfopage .topcover .player {width: 265px;}
+	.teaminfopage .teamdetails {width: 300px;}
+	.teaminfopage .infotexts {width: 450px;}
+
+	.teampage2 .links {width: 100%;}
+	.teampage2 .links li a {padding: 0 36px 20px;}
+	#matches .leftpart {padding-left: 0px;}
+	#matches .countryinfo {width: 262px;}
+	#matches .matcherow .place {width: auto; float: right; border-right: none; border-top: 1px solid #e9ecef; margin-top: 15px; padding-top: 15px;}
+	#matches .matcherow .place p {float: left; width: auto; margin: -3px 0 0 15px;}
+	#groupspart .grouptable ul .col1 {width: 196px;}
+	#groupspart .grouptable ul .scol {width: 61px;}
+
+	#players .fieldpart {height: 280px;}
+	#players .fieldpart .field {margin-top: 40px;}
+	#players .fieldpart .field .player1 {right: 367px; top: 67px;}
+	#players .fieldpart .field .player2 {right: 359px; top: 30px;}
+	#players .fieldpart .field .player3 {right: 422px; top: 24px;}
+	#players .fieldpart .field .player4 {right: 444px; top: 55px;}
+	#players .fieldpart .field .player5 {right: 466px; top: 85px;}
+	#players .fieldpart .field .player6 {right: 425px; top: 89px;}
+	#players .fieldpart .field .player7 {right: 477px; top: 18px;}
+	#players .fieldpart .field .player8 {right: 519px; top: 37px;}
+	#players .fieldpart .field .player9 {right: 546px; top: 67px;}
+	#players .fieldpart .field .player10 {right: 514px; top: 89px;}
+	#players .fieldpart .field .player11 {right: 580px; top: 40px;}
+
+	#players .playerslists {overflow-x: auto;}
+	#players .playerslists .innertable {width: 930px;}
+
+	.separatorline {display: none;}
+	#adbanner a img {max-width: 100%;}
+	.homepage .newalldetails .custtab .newsbox h4 {min-height: 48px;}
+	.othernews .newbox .details {margin: 10px 13px 0 0;}
+	.othernews .newbox:first-child .details {margin-right: 0px;}
+	.mainslider .owl-nav div {bottom: 214px;}
+	header .hads {display: none;}
+	header .logo {margin-top: 0px;}
+	header .lheader {margin-top: 20px;}
+}
+@media only screen and (max-width: 767px){
+	#breadcrumbs .container, .sliderpart .container, .container, #todaymatches .container, .mainslider .container, .mainslider .owl-nav, header .container, .custnav .container {width: auto; padding: 0 15px;}
+	/*header, .custnav {padding-left: 0px; padding-right: 0px;}*/
+	/*header .lheader .searchbar {margin-left: 15px; padding-left: 15px;}*/
+	.custnav {padding: 18px 0;}
+	header .searchbar .custfield {width: 270px;}
+	header .topheader .socials a {margin-right: 5px;}
+	header .topheader .topleft ul {margin-left: 5px;}
+	header .topheader .topleft ul li {padding: 2px 10px 8px;}
+	#mobilemenu {background: url(../images/menu-icon.png) no-repeat 0 0; width: 14px; height: 12px; float: right; margin:0px 20px 0 0; cursor: pointer;}
+	.custnav .container {position: relative;}
+	.custnav .menus {width: 100%; display: none; position: absolute; left: 0px; right: 0px; top: 30px; background-color: #193048;}
+	.custnav .menus > li {width: 100%; border-left: none; border-top: 1px solid #3b4f63; padding: 10px 20px 14px;}
+	footer .fmenus {padding: 20px 0 30px;}
+	footer .fmenus li {margin-top: 10px;}
+
+	.teaminfopage .topcover .rightlogo, .teaminfopage .topcover .leftlogo {width: 171px;}
+	.teaminfopage .teamdetails {width: 100%;}
+	.teaminfopage .infotexts {width: 100%; border-right: none; border-top: 1px solid #e9ecef;}
+
+	.teamspage .team-lists .teambox {width: 50%;}
+
+	.teampage2 .links li a {padding: 0 22px 20px;}
+	#matches .matcherow .no span {width: 34px; height: 34px; font-size: 15px; padding: 3px 0;}
+	#matches .countryinfo .flag {width: 49px; height: 34px;}
+	#matches .countryinfo .flag img {max-width: 100%; max-height: 100%;}
+	#matches .countryinfo .name h3 {padding-top: 0px; margin-top: -9px;}
+	#matches .matcherow .no {padding-left: 15px;}
+	#matches .countryinfo {padding: 0 15px; width: 221px;}
+	#matches .matcherow .time {padding: 0 13px 7px; font-size: 18px;}
+
+	#groupspart .grouptable {overflow-x: auto; padding-bottom: 20px;}
+	#groupspart .grouptable .innertable {width: 690px;}
+
+	#players .fieldpart {display: none;}
+	#players .playerslists {border-top: 1px solid #e9ecef; padding-top: 15px;}
+
+	.homepage .newalldetails .custtab .newsbox h4 {min-height: 0px;}
+	.mainslider .owl-carousel .item .sliderimg {height: 670px;}
+	.mainslider .slidertexts {top: 40px;}
+	.slidertexts h1 {width: 370px; font-size: 26px; line-height: 37px;}
+	.playerbox {bottom: auto; top: 40px;}
+	.playerbox .leftbox {background-size: 232px auto; width: 232px; height: 195px;}
+	.playerbox .leftbox .player img {width: 114px;}
+	.othernews .newbox {border-left: 0px; border-bottom: 1px solid rgba(255, 255, 255, 0.3); padding: 10px 15px;}
+	.othernews .newbox:last-child {border-bottom: none;}
+	.othernews .newbox .imgbox {margin-right: 0px;}
+	.othernews .newbox .details {width: 230px; margin: -5px 20px 0 0 !important;}
+	.mainslider .owl-nav div {width: 44px; height: 44px; bottom: 278px;}
+	.mainslider .owl-nav div.owl-next {right: 15px;}
+	.photoablums .owl-nav div {width: 44px; height: 44px; background-size: 44px auto;}
+	.photoablums .owl-nav div.owl-prev {left: 20px;}
+	.photoablums .owl-nav div.owl-next {right: 20px;}
+}
+@media only screen and (max-width: 639px){
+	header .searchbar {width: 100%;}
+	header .searchbar .custfield {width: 100%;}
+	header .topheader .topleft {margin-bottom: 9px;}
+	.newalldetails, .aslidepart .adslidebanner .banner {padding: 15px;}
+	.socialmedia a {margin: 3px !important;}
+	.custtab .tab-content {padding: 0 15px;}
+	.aslidepart .adslidebanner, .aslidepart .bestsoccer, .teaminfopage .infotexts p {padding-left: 15px; padding-right: 15px;}
+	#relatednews .contentbox, #polls .contentbox, #matches .contentbox, #groupspart .contentbox, .aslidepart .points {padding: 20px 15px 25px;}
+	footer .fmidd {padding: 30px 0 40px;}
+	footer .fcol {width: 100% !important; padding: 0 !important;}
+	footer .fcol2, footer .fcol3 {margin-top:30px;}
+	footer .copyright p {width: 100%; text-align: center;}
+	footer .copyright .cleft {width: 100%; text-align: center;}
+	footer .copyright .cleft a {display: inline-block; float: none; margin: 4px 12px !important;}
+
+	.teaminfopage .topcover {height: auto;}
+	.teaminfopage .topcover .rightlogo, .teaminfopage .topcover .leftlogo {width: 131px;}
+	.teaminfopage .topcover .rightlogo img, .teaminfopage .topcover .leftlogo img {width: 68px;}
+	.teaminfopage .topcover .player {width: 185px;}
+	.teaminfopage .topcover .player .photo {width: 110px; height: 110px;}
+	.teaminfopage .topcover .player h3 {font-size: 28px;}
+	.teaminfopage .topcover .vline {height: 72px;}
+
+	.teamspage .team-lists .teambox {width: 100%;}
+	.teampage2 .flagname ul li {margin-left: 20px; padding-left: 20px;}
+	.teampage2 .contentbox {padding: 15px 15px 0px;}
+	.teampage2 .links li a {font-size: 16px; padding: 0 11px 20px;}
+	#matches .countryinfo {width: 88%;}
+	#matches .matcherow .time {width: 100%; margin: 15px 0; text-align: center;}
+	#matches .countryinfo .flag {float: right !important; margin-right: 0px; margin-left: 20px;}
+	#matches .leftpart {padding-right: 66px;}
+	#matches .leftpart .name {float: right !important;}
+	#matches .matcherow .place {width: 100%;}
+	#matches .matcherow .place .imgbox {float: right;}
+
+	.homepage .newalldetails .custtab .nav-tabs > li > a {font-size: 16px; padding: 0 15px 23px;}
+	.homepage .newalldetails .custtab .tab-content {padding-left: 15px; padding-right: 15px;}
+	.homepage .newalldetails .custtab .newinfo, .custtab .tabtopbar {padding: 15px 15px 0;}
+	.playerbox {display: none;}
+}
+@media only screen and (max-width: 479px){
+	header .profile {padding-right: 20px;}
+	#breadcrumbs ul li {padding-left: 18px; margin-left: 10px;}
+	#breadcrumbs h1 {padding: 26px 0 40px;}	
+	.custtab .lists li .point {padding-left: 0px;}
+	#polls .optbtn {width: 100%; margin:4px 0px;}
+	#polls .container, footer .container {padding: 0 20px;}
+
+	.teaminfopage .topcover {padding: 20px 0 0;}
+	.teaminfopage .topcover .rightlogo, .teaminfopage .topcover .leftlogo {margin-top: 0px;}
+	.teaminfopage .topcover .player {width: 100%; margin-top: 20px;}
+	.teaminfopage .topcover .leftlogo {position: relative; top: -286px; float: left;}
+	.mhidden {display: none;}
+	.teaminfopage .topcover .vline {margin-top: 0px; height: 84px;}
+	.teaminfopage .teamdetails h4 {padding-top: 0px;}
+
+	.sliderpart .item iframe {height: 283px;}
+	.teampage2 .flagname ul li:last-child {margin-left: 0px; padding-left: 0px; border-left: none;}
+	.teampage2 .flagname .name {width: 100%; border-top: 1px solid #dee2e6; border-bottom: 1px solid #dee2e6; margin-top: 20px; padding-bottom: 20px;}
+	.teampage2 .links {margin-top: 11px;}
+	.teampage2 .links li a {padding: 0 14px 9px; margin-top: 10px;}
+	#matches .countryinfo{width: 79%;}
+	#matches .leftpart {width: 100%;}
+	#matches .matcherow .place p {width: 60%; margin-left: 0px;}
+
+	.homepage .newalldetails .custtab .nav-tabs {width: 100%;}
+	.homepage .newalldetails .custtab .nav-tabs > li {width: 50%;}
+	.custtab .tabtopbar .more, .homepage .newalldetails .custtab .newinfo p {display: none;}
+	.homepage .newalldetails .custtab .newinfo h3 {font-size: 15px; padding: 10px;}
+	.mainslider .owl-carousel .item .sliderimg {height: 574px;}
+	.slidertexts h1 {width: 100%;}
+	.slidertexts p, .photoablums .item .title {display: none;}
+	.othernews .newbox .details {width: 160px;}
+	.photoablums .item .bottominfo ul {width: 100%;}
+	.photoablums .item .bottominfo ul li {width: 60px;}
+}
+@media only screen and (max-width: 359px){
+	.custtab .lists li .member {width: 100%;}
+	.custtab .lists li .point {float: right;}
+	.photoablums .item .totalimg {display: none;}
+}
