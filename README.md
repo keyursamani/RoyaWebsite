@@ -1,6 +1,8 @@
 # RoyaWebsite
 Sliced RTL Language Pages into HTML with fully responsive
 
+Home Page Link: https://keyursamani.github.io/RoyaWebsite/
+
 Inner Page Link:https://keyursamani.github.io/RoyaWebsite/roya-news-inner.html
 
 Player Page Link: https://keyursamani.github.io/RoyaWebsite/roya-player.html
